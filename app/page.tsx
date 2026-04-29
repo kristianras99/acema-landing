@@ -1,4 +1,4 @@
-const CALENDAR_LINK = 'https://calendar.app.google/XVy1wUjxeb6eZPQi7'
+const CALENDAR_LINK = 'https://calendar.app.google/uVvinCkwHcXZXEbQ9'
 
 export default function LandingPage() {
   return (
